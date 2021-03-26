@@ -1,0 +1,10 @@
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\bin\Debug\E8247C_0.exe.config
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\bin\Debug\E8247C_0.exe
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\bin\Debug\E8247C_0.pdb
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.csprojAssemblyReference.cache
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.Form1.resources
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.Properties.Resources.resources
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.csproj.GenerateResource.cache
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.csproj.CoreCompileInputs.cache
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.exe
+D:\_16_c_sharp\E8247C_git\E8247C_0\E8247C_0\obj\Debug\E8247C_0.pdb
